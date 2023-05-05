@@ -4,7 +4,7 @@ A Discord bot built using OpenAI's GPT-4 that can be easily customized by changi
 
 ## Features
 
-- Powered by OpenAI's GPT-4
+- Powered by OpenAI's GPT-3.5 Turbo
 - Customizable behavior by changing `MY_PROMPT`
 - Responds to user messages in a consistent manner according to the defined prompt
 
