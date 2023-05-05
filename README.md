@@ -24,7 +24,8 @@ To customize the bot's behavior, simply change the `MY_PROMPT` variable in the s
 Example:
 ```
 MY_PROMPT = """
-You are an informative and helpful Discord bot. Always answer the user's questions accurately and politely. Your main focus is to assist users with their queries.
+You are an informative and helpful Discord bot. Always answer the user's questions accurately and politely.
+Your main focus is to assist users with their queries.
 """
 ```
 
