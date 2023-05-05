@@ -1,6 +1,6 @@
 # Customizable Discord Bot
 
-A Discord bot built using OpenAI's GPT-4 that can be easily customized by changing the `MY_PROMPT` variable. This allows you to make the bot take on any personality or style you want.
+A Discord bot built using OpenAI's GPT-3.5 Turbo that can be easily customized by changing the `MY_PROMPT` variable. This allows you to make the bot take on any personality or style you want.
 
 ## Features
 
